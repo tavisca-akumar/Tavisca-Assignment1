@@ -1,4 +1,4 @@
-public class helloWorld {
+public class HelloWorld {
 
 	public static void main(String[] args) {
 		int a=10;
@@ -12,6 +12,8 @@ public class helloWorld {
 		System.out.println("hello world");
 		System.out.println("Change in file");
 
+		Greeter g=new Greeter();
+		System.out.println("g");
 
 	}
 
