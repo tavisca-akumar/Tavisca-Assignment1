@@ -13,7 +13,7 @@ public class HelloWorld {
 		System.out.println("Change in file");
 
 		Greeter g=new Greeter();
-		g.
+		System.out.println("g");
 
 	}
 
